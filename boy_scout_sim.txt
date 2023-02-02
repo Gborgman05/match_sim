@@ -1,0 +1,36 @@
+number of kids passing matches: 10
+number of total steps recorded: 10
+[kid: 0 throughput: 36, throughput_avg: 3.6,
+ kid: 1 throughput: 31, throughput_avg: 3.1,
+ kid: 2 throughput: 26, throughput_avg: 2.6,
+ kid: 3 throughput: 19, throughput_avg: 1.9,
+ kid: 4 throughput: 14, throughput_avg: 1.4,
+ kid: 5 throughput: 12, throughput_avg: 1.2,
+ kid: 6 throughput: 7, throughput_avg: 0.7,
+ kid: 7 throughput: 4, throughput_avg: 0.4,
+ kid: 8 throughput: 3, throughput_avg: 0.3,
+ kid: 9 throughput: 1, throughput_avg: 0.1]
+number of kids passing matches: 10
+number of total steps recorded: 100
+[kid: 0 throughput: 329, throughput_avg: 3.29,
+ kid: 1 throughput: 317, throughput_avg: 3.17,
+ kid: 2 throughput: 286, throughput_avg: 2.86,
+ kid: 3 throughput: 283, throughput_avg: 2.83,
+ kid: 4 throughput: 277, throughput_avg: 2.77,
+ kid: 5 throughput: 268, throughput_avg: 2.68,
+ kid: 6 throughput: 262, throughput_avg: 2.62,
+ kid: 7 throughput: 259, throughput_avg: 2.59,
+ kid: 8 throughput: 255, throughput_avg: 2.55,
+ kid: 9 throughput: 240, throughput_avg: 2.4]
+number of kids passing matches: 10
+number of total steps recorded: 1000
+[kid: 0 throughput: 3534, throughput_avg: 3.534,
+ kid: 1 throughput: 3476, throughput_avg: 3.476,
+ kid: 2 throughput: 3429, throughput_avg: 3.429,
+ kid: 3 throughput: 3357, throughput_avg: 3.357,
+ kid: 4 throughput: 3352, throughput_avg: 3.352,
+ kid: 5 throughput: 3296, throughput_avg: 3.296,
+ kid: 6 throughput: 3291, throughput_avg: 3.291,
+ kid: 7 throughput: 3265, throughput_avg: 3.265,
+ kid: 8 throughput: 3200, throughput_avg: 3.2,
+ kid: 9 throughput: 3174, throughput_avg: 3.174]
