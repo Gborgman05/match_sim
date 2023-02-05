@@ -28,6 +28,7 @@ class match_node:
         return (f"kid: {self.name} throughput: {self.throughput}, throughput_avg: {self.throughput / len(self.throughput_history)}")
 
 def main():
+    random.seed(10)
     num_kids = 10
     num_steps = 100
     for num_steps in [10, 100, 1000]:
@@ -43,8 +44,8 @@ def main():
         kid_line[0].matches = 1000000
         for i in range(num_steps):
             # go backwards in line so you can't pass same matches through line initially
-            for j in range(num_kids -1, -1, -1):
-            # for j in range(0, num_kids):
+            # for j in range(num_kids -1, -1, -1):
+            for j in range(0, num_kids):
                 kid_line[j].pass_matches()
         pprint(kid_line)
 
